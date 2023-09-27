@@ -6,6 +6,13 @@ My Portfolio adalah proyek website portfolio pribadi yang dirancang dan dikemban
 ## Tentang Proyek
 Website portfolio ini merupakan wadah yang memungkinkan Anda untuk memamerkan bakat dan prestasi Anda. Melalui halaman-halaman yang disediakan, Anda dapat memberikan gambaran yang komprehensif tentang diri Anda sebagai seorang pengembang web.
 
+
+Untuk memulainya, anda perlu menjalankan kode berikut dalam kedua folder, yaitu "my-portfolio-backend" dan "my-portfolio-frontend"
+```
+npm run dev
+```
+
+
 Anda bisa memulai website ini dengan url: http://localhost:5173/Yasfikri
 Jangan lupa login terlebih dahulu dengan akun
 Email: Yasfikri1811@gmail.com
