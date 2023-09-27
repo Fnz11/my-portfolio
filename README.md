@@ -41,6 +41,6 @@ Selain itu, Anda juga bisa membuat akun sendiri dengan menekan tombol Sign In ya
 ---
 
 ## Kontribusi dan Umpan Balik
-Saya sangat menghargai kontribusi, saran, atau kritik dari pengguna Saya. Proyek ini selalu dalam pengembangan dan kami berusaha keras untuk memperbaiki dan meningkatkannya. Jika Anda memiliki ide atau rekomendasi yang dapat membantu Saya mengembangkan website ini lebih baik lagi, jangan ragu untuk berbagi.
+Saya sangat menghargai kontribusi, saran, atau kritik dari pengguna Saya. Proyek ini selalu dalam pengembangan dan Saya berusaha keras untuk memperbaiki dan meningkatkannya. Jika Anda memiliki ide atau rekomendasi yang dapat membantu Saya mengembangkan website ini lebih baik lagi, jangan ragu untuk berbagi.
 
 Terima kasih atas kunjungan Anda ke website portfolio Saya. Saya berharap Anda menemukan nilai tambah dalam menjelajahi portofolio Saya dan berharap untuk dapat berkolaborasi dengan Anda di masa depan.
